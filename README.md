@@ -1,5 +1,5 @@
 # my-business-card
-An online business card, made similarly to one that I first made in CodeBerry Programming School.
+A responsive online business card, made similarly to one that I first made in CodeBerry Programming School.
 
 # Built with
 
