@@ -5,6 +5,8 @@ A responsive online business card, made similarly to one that I first made in Co
 
 - HTML5
 - CSS3
+- Font Awesome
+- JSBin
 
 # Live version
 
